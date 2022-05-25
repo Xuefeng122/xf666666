@@ -1,2 +1,13 @@
-shadowsocks=54.214.170.7:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=undefined ⁴
-shadowsocks=154.17.4.11:34056, method=aes-256-gcm, password=08396037, fast-open=false, udp-relay=false, tag=xf666666
+🇺🇸 HTTPS｜美国01= https, h961359.droplet.today, 11245, username=dcf12c7e7d, password=26bae9b023, udp-relay=true
+🇺🇸 HTTPS｜美国02= https, h961684.droplet.today, 11245, username=dcf12c7e7d, password=26bae9b023, udp-relay=true
+🇩🇪 HTTPS｜德国01= https, h961684.droplet.today, 11745, username=dcf12c7e7d, password=26bae9b023, udp-relay=true
+🇯🇵 HTTPS｜日本01= https, h961359.droplet.today, 11445, username=dcf12c7e7d, password=26bae9b023, udp-relay=true
+🇯🇵 HTTPS｜日本02= https, h961684.droplet.today, 11445, username=dcf12c7e7d, password=26bae9b023, udp-relay=true
+🇭🇰 HTTPS｜香港06= https, h890361.droplet.today, 11545, username=dcf12c7e7d, password=26bae9b023, udp-relay=true
+🇭🇰 HTTPS｜香港07= https, h961359.droplet.today, 11545, username=dcf12c7e7d, password=26bae9b023, udp-relay=true
+🇭🇰 微信@xf66666bplus= https, h890361.droplet.today, 11545, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, udp-relay=true
+🇹🇼 台湾01= https, h3816tw.droplet.today, 20443, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, udp-relay=true
+🇩🇪 更多节点添加微信= https, h961684.droplet.today, 11745, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, udp-relay=true
+🇺🇸 理论2023.3.11到期= https, h961684.droplet.today, 11245, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, udp-relay=true
+🇺🇸 xf66666bplus= ss, 54.214.170.7, 443, encrypt-method=aes-256-cfb, password=amazonskr05, udp-relay=true
+🇺🇸 xf666666= ss, 154.17.4.11, 34056, encrypt-method=aes-256-gcm, password=08396037, udp-relay=true
