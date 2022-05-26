@@ -7,5 +7,5 @@
 🇭🇰 HTTPS｜香港07= https, h961359.droplet.today, 11545, username=dcf12c7e7d, password=26bae9b023, udp-relay=true
 🏴‍☠️ 微信@xf66666bplus= https, h890361.droplet.today, 11545, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, udp-relay=true
 🇹🇼 台湾01= https, h3816tw.droplet.today, 20443, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, udp-relay=true
-🏴‍☠️ 更多节点关注频道= https, h961684.droplet.today, 11745, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, udp-relay=true
+🏴‍☠️ 更多节点= https, h961684.droplet.today, 11745, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, udp-relay=true
 🏴‍☠️ 理论2023.3.11到期= https, h961684.droplet.today, 11245, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, udp-relay=true
