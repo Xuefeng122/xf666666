@@ -9,3 +9,6 @@
 🇹🇼 台湾01= https, h3816tw.droplet.today, 20443, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, udp-relay=true
 🏴‍☠️ 更多节点= https, h961684.droplet.today, 11745, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, udp-relay=true
 🏴‍☠️ 理论2023.3.11到期= https, h961684.droplet.today, 11245, username=dcf12c7e7d, password=26bae9b023, skip-cert-verify=true, udp-relay=true
+🏴‍☠️ xf66666bplus= ss, 54.214.170.7, 443, encrypt-method=aes-256-cfb, password=amazonskr05, udp-relay=true, 
+🏴‍☠️ xf666666= ss, 154.17.4.11, 34056, encrypt-method=aes-256-gcm, password=08396037, udp-relay=true, 
+🇵🇭 PH= ss, 103.38.214.247:40993, method=chacha20-ietf-poly1305, password=wXBYwfW0ZyLk, skip-cert-verify=true, udp-relay=true, 
